@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-## Deploy: https://matheusosp.netlify.app/
+## Deploy: [https://matheusosp.netlify.app/] https://matheusosp.netlify.app/
+
+## Backend repository [https://github.com/matheusosp/deliveryWith-Java-React] https://github.com/matheusosp/deliveryWith-Java-React
+
+## Backend Deploy [https://matheusosp-deliver.herokuapp.com/] https://matheusosp-deliver.herokuapp.com/
 
 ![Foo](https://raw.githubusercontent.com/matheusosp/delivery-frontend-React/main/React%20App.jpg)
 
