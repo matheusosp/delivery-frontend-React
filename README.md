@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 ## Deploy: https://matheusosp.netlify.app/
+
+![Foo](https://raw.githubusercontent.com/matheusosp/delivery-frontend-React/main/React%20App.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
